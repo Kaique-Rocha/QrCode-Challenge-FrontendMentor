@@ -20,8 +20,9 @@ O projeto que desenvolvi é uma aplicação simples de código QR, focada em pra
 
 ### Links
 
-- **URL da Solução:** [Adicione a URL da solução aqui](https://seu-projeto-url.com)
-- **URL do Site Ao Vivo:** ([https://seu-live-site-url.com](https://kaique-rocha.github.io/QrCode-Challenge-FrontendMentor/))
+- **URL da Solução:** []([[https://seu-projeto-url.com](https://github.com/Kaique-Rocha)](https://www.frontendmentor.io/solutions/solution-challenge-qr-code-with-responsive-landing-eC_IMdH_XJ
+))
+- **URL do Site Ao Vivo:** ([Qr Code Challenge Solution](https://kaique-rocha.github.io/QrCode-Challenge-FrontendMentor/))
 
 #### Implementação Responsiva
 
@@ -40,7 +41,7 @@ Espero que esta aplicação simples demonstre meu comprometimento com boas prát
 
 ## Autor
 
-- Site - [Adicione seu nome aqui](https://www.seu-site.com)
-- Frontend Mentor - [@seuusuario](https://www.frontendmentor.io/profile/seuusuario)
-- Twitter - [@seuusuario](https://www.twitter.com/seuusuario)
+- Site - [Kaique Rocha]([https://www.seu-site.com](https://github.com/Kaique-Rocha))
+- Frontend Mentor - [@Kaique-Rocha]([https://www.frontendmentor.io/profile/seuusuario](https://www.frontendmentor.io/profile/Kaique-Rocha))
+- Linkedin - [Kaique Rocha]([https://www.twitter.com/seuusuari](https://www.linkedin.com/in/kaique-rocha-0bab132ab/)https://www.linkedin.com/in/kaique-rocha-0bab132ab/)
 
