@@ -20,9 +20,8 @@ O projeto que desenvolvi é uma aplicação simples de código QR, focada em pra
 
 ### Links
 
-- **URL da Solução:** []([[https://seu-projeto-url.com](https://github.com/Kaique-Rocha)](https://www.frontendmentor.io/solutions/solution-challenge-qr-code-with-responsive-landing-eC_IMdH_XJ
-))
-- **URL do Site Ao Vivo:** ([Qr Code Challenge Solution](https://kaique-rocha.github.io/QrCode-Challenge-FrontendMentor/))
+- **URL da Solução:** ([Qr Code Challenge Solution](https://www.frontendmentor.io/solutions/solution-challenge-qr-code-with-responsive-landing-eC_IMdH_XJ))
+- **URL do Site Ao Vivo:** ([Qr Code Challenge Online](https://kaique-rocha.github.io/QrCode-Challenge-FrontendMentor/))
 
 #### Implementação Responsiva
 
