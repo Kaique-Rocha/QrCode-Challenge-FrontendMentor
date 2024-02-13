@@ -21,15 +21,12 @@ O projeto que desenvolvi é uma aplicação simples de código QR, focada em pra
 ### Links
 
 - **URL da Solução:** [Adicione a URL da solução aqui](https://seu-projeto-url.com)
-- **URL do Site Ao Vivo:** [Adicione a URL do site ao vivo aqui](https://seu-live-site-url.com)
+- **URL do Site Ao Vivo:** ([https://seu-live-site-url.com](https://kaique-rocha.github.io/QrCode-Challenge-FrontendMentor/))
 
 #### Implementação Responsiva
 
 Ao longo do desenvolvimento, concentrei-me em garantir uma experiência de usuário consistente em vários dispositivos, desde telas grandes de desktop até dispositivos móveis. Utilizei media queries para ajustar o layout, fontes e outros estilos para garantir a legibilidade e usabilidade em todas as plataformas.
 
-#### Estrutura HTML Semântica
-
-Adotei uma estrutura semântica HTML5 para garantir uma base sólida e acessível. Cada elemento foi escolhido com cuidado para refletir a estrutura lógica do conteúdo e facilitar a manutenção e compreensão do código.
 
 #### Estilização com CSS Personalizado
 
