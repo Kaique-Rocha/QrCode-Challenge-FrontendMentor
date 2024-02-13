@@ -40,7 +40,7 @@ Espero que esta aplicação simples demonstre meu comprometimento com boas prát
 
 ## Autor
 
-- Site - ([Kaique Rocha](https://www.seu-site.com](https://github.com/Kaique-Rocha))
-- Frontend Mentor - ([Kaique Rocha](https://www.frontendmentor.io/profile/seuusuario))
+- Site - ([Kaique Rocha](https://kaique-rocha.github.io/QrCode-Challenge-FrontendMentor/))
+- Frontend Mentor - ([Kaique Rocha](https://www.frontendmentor.io/profile/Kaique-Rocha))
 - Linkedin - ([Kaique Rocha](https://www.linkedin.com/in/kaique-rocha-0bab132ab/))
 
