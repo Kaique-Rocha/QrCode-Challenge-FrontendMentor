@@ -16,7 +16,7 @@ O projeto que desenvolvi é uma aplicação simples de código QR, focada em pra
 
 ### Captura de Tela
 
-./src/images/screenshot.png
+![](./src/images/screenshot.png)
 
 ### Links
 
