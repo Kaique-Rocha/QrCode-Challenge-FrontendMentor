@@ -5,8 +5,8 @@ Esta é uma solução para o [desafio do componente de código QR no Frontend Me
 ## Índice
 
 - [Visão Geral](#visão-geral)
-  - [Captura de Tela](#captura-de-tela)
-  - [Links](#links)
+- [Captura de Tela](#captura-de-tela)
+- [Links](#links)
 - [Autor](#autor)
 
 
@@ -41,6 +41,6 @@ Espero que esta aplicação simples demonstre meu comprometimento com boas prát
 ## Autor
 
 - Site - ([Kaique Rocha](https://www.seu-site.com](https://github.com/Kaique-Rocha))
-- - Frontend Mentor - ([Kaique Rocha](https://www.frontendmentor.io/profile/seuusuario))
+- Frontend Mentor - ([Kaique Rocha](https://www.frontendmentor.io/profile/seuusuario))
 - Linkedin - ([Kaique Rocha](https://www.linkedin.com/in/kaique-rocha-0bab132ab/))
 
