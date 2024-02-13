@@ -1,0 +1,33 @@
+@media (max-width: 1024px) {
+    body{
+        margin: 5% 30%;
+    }
+}
+
+@media (max-width: 780px){
+    body{
+        margin: 5% 20%;
+    }
+}
+
+@media (max-width: 400px){
+    body{
+        margin: 3% 5%;
+    }
+    #box{
+        width: 300px;
+        height: 600px;
+    }
+    #code img{
+        width: 270px;
+        height: 360px;
+        border-radius: 5%;
+    }
+    #txt{
+        font-size: 14px;
+    }
+    
+    #txt p{
+        font-size: 12px;
+    }
+}
